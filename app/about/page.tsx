@@ -6,10 +6,9 @@ import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
 
 const team = [
-  { name: "Marian Berna", role: "CEO", title: "Ingeniero Aeroespacial" },
-  { name: "Mariano Vergne", role: "CCO", title: "Ingeniero Químico" },
-  { name: "Bernardo Bidart", role: "COO", title: "Lic. en Administración" },
-  { name: "Juan Romano", role: "CFO", title: "Economista" },
+  { name: "Mariano Vergne", role: "CEO", title: "Ingeniero Aeroespacial" },
+  { name: "Bernardo Bidart", role: "CCO", title: "Ingeniero Químico" },
+  { name: "Juan Romano", role: "COO", title: "Lic. en Administracióa" },
   { name: "Bautista Ramírez", role: "CFO", title: "Economista" },
   { name: "Juan Martínez", role: "Front-End Dev", title: "Desarrollador" },
   { name: "Marcos Mercado", role: "Back-End Dev", title: "Desarrollador" },
